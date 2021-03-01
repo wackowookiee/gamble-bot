@@ -26,5 +26,5 @@ function myFunc() {
     client.say("sukasblood", "!gamble all");
   }
   
-  setTimeout(myFunc, 35000);
+  setInterval(myFunc, 35000);
   
